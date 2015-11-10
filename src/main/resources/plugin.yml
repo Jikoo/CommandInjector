@@ -1,0 +1,5 @@
+name: CommandInjector
+description: Inject commands! Quick and dirty edition.
+version: 0.0.1
+author: Jikoo
+main: com.github.jikoo.commandinjector.CommandInjector
